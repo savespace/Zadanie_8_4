@@ -1,0 +1,28 @@
+{
+  "name": "kodilla-comment",
+  "version": "1.0.0",
+  "description": "first comment",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "kodilla-tet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/Zadanie_8_4.git"
+  },
+  "keywords": [
+    "comment"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/Zadanie_8_4/issues"
+  },
+  "homepage": "https://github.com/savespace/Zadanie_8_4#readme"
+}
